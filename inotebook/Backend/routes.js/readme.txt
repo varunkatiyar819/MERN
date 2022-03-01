@@ -1,0 +1,1 @@
+All the routes and setting up of links to navigate from one page to another is done in routes.
